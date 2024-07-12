@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Apurbo</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
-https://img.freepik.com/premium-vector/energetic-imagination-boy-vector-design-vibrant-discoveries-illustrated-boy_772298-35112.jpg?w=360
+
+<img src="[img_girl.jpg](https://img.freepik.com/premium-vector/energetic-imagination-boy-vector-design-vibrant-discoveries-illustrated-boy_772298-35112.jpg?w=360)" alt="Girl in a jacket" width="500" height="600">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saha-apurbo-01&label=Profile%20views&color=0e75b6&style=flat" alt="saha-apurbo-01" /> </p>
 
