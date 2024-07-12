@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **PHP, Laravel**
 
+- 📝 I regularly write articles on [https://www.facebook.com/saha.apurbo.01](https://www.facebook.com/saha.apurbo.01)
+
 - 💬 Ask me about **react, JavaScript, Laravel**
 
 - 📫 How to reach me **sahaapurbo01@gmail.com**
