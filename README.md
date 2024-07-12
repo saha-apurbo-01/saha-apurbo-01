@@ -5,6 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saha-apurbo-01" alt="saha-apurbo-01" /></a> </p>
 
+- 🌱 I’m currently learning **PHP, Laravel**
+
+- 💬 Ask me about **react, JavaScript, Laravel**
+
+- 📫 How to reach me **sahaapurbo01@gmail.com**
+
+- ⚡ Fun fact **Behave Like a Geniuses**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/saha.apurbo.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/saha.apurbo.01" height="30" width="40" /></a>
