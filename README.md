@@ -1,14 +1,5 @@
 <h1 align="center">Hi 👋, I'm Apurbo</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
-<style>
-    .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-</style>
-<img src="https://img.freepik.com/premium-vector/energetic-imagination-boy-vector-design-vibrant-discoveries-illustrated-boy_772298-35112.jpg?w=360" class="center">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saha-apurbo-01&label=Profile%20views&color=0e75b6&style=flat" alt="saha-apurbo-01" /> </p>
 
